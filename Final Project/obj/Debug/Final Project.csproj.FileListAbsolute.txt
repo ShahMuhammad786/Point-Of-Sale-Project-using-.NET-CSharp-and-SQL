@@ -1,0 +1,28 @@
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\obj\Debug\Final_Project.Index.resources
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\obj\Debug\Final_Project.StockManagement.resources
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\obj\Debug\Final_Project.Log.resources
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\obj\Debug\Final_Project.BuyScanner.resources
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\obj\Debug\Final_Project.BuyManual.resources
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\obj\Debug\Final Project.csproj.CopyComplete
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\bin\Debug\AForge.dll
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\bin\Debug\AForge.Video.dll
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\bin\Debug\zxing.dll
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\bin\Debug\zxing.presentation.dll
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\bin\Debug\AForge.xml
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\bin\Debug\AForge.Video.xml
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\bin\Debug\zxing.xml
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\bin\Debug\zxing.presentation.xml
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\obj\Debug\Final_Project.login.resources
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\obj\Debug\Final_Project.addUsers.resources
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\bin\Debug\POS System.exe.config
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\bin\Debug\POS System.exe
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\bin\Debug\POS System.pdb
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\obj\Debug\POS System.exe
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\obj\Debug\POS System.pdb
+C:\Users\Shah Muhammad\source\repos\Final Project @VP\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
